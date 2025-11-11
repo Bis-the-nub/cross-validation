@@ -1,0 +1,7 @@
+---
+title: "Cross validation"
+author: "Rene Chi"
+date: "2025-11-11"
+output: github_document
+---
+
